@@ -1,2 +1,2 @@
 # learning_code
-This has all of my practice exercises and notes from exercises I have completed.
+This folder has exercises that I have done to teach myself programming languages. Within the exercises I have made notes on what specific lines of codes do, definitions of terms with examples, and remarks about other information from the courses and what I've noticed.
