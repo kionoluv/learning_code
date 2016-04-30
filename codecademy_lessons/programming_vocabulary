@@ -24,3 +24,11 @@ JAVA, Data Structures:
 + For Each Loops: a concise version of a for loop
 + ArrayList: stores a list of data
 + HashMap: stores keys and associated values like a dictionary
+
+PYTHON, Introduction:
+=====================
++ Variables: which store values for later use
++ Data types: numbers, booleans, etc.
++ Whitespace: separates statements
++ Comments: makes code easier to read
++ Arithmetic: operations including +, -, *, /, **, and %
