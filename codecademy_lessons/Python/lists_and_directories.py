@@ -1,6 +1,6 @@
 """
 =============================
-	LISTS AND DIRECTORIES
+    LISTS AND DIRECTORIES
 =============================
 """
 
@@ -20,4 +20,16 @@
 				#it's been a long time since I made some berry-ful pancakes
 			print "Sometimes I just want a rich and delicious" + my_cravings[3]
 				#sometimes i just want a rich and delicious milkshake
-	
+# INDEX #
+	#index: identifies an item's place in the list
+	#list indices begin at 0 and not 1
+		letters = ["a", "b", "c", "d", "e"]
+		print letter[0] #prints a
+		print letter[2] #prints c
+		print letter [4] #prints e
+		print letter [1, 3] #prints bd
+
+	#assignment: assigning another value to the list index
+		letters2 = ["f", "g", "h", "i", "j"]
+		letters2[0] = "k" #replaces "f" with "k"
+		letters2[3] = "l" #replaces "i" with "l"
